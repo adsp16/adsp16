@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Engineer
 -------------------
 
-Coding for 5+ years. Using typescript to build stuff. Front end was the start but back end became necessary.
+Coding for 5+ years. Using javascript to build stuff.
 
 * 🌍  I'm based in Milton Keyens, UK
 * ✉️  You can contact me at [adsp16@gmail.com](mailto:adsp16@gmail.com)
