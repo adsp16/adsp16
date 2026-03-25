@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Engineer
 -------------------
 
-Coding for 5+ years. Using javascript to build stuff.
+Coding for 5+ years. Learning anything I can.
 
 * 🌍  I'm based in Milton Keyens, UK
 * ✉️  You can contact me at [adsp16@gmail.com](mailto:adsp16@gmail.com)
-* 🧠  I'm learning AWS and Python
+* 🧠  I'm learning Rust and Temporal
 * ⚡  Distributed Ledger Stalker
 
 ### Skills
